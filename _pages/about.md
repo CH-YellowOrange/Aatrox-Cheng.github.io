@@ -17,4 +17,4 @@ I received my master’s degree in Information Engineering from the Chinese Univ
 
 Unlike most good AI researchers, I am a "garbage maker". If you want to work with me, be prepared to be ripped off. Of course, if you don't mind leaving a stain on your resume, you can choose to communicate with me.
 
-
+In the future, after finishing this boring Ph.D., I will study for a second Ph.D. on the intersection of bioinformatics and statistics. If you ask why, the first Ph.D. was just for finding a job and making a living, while the second one is the field I am really interested in.
