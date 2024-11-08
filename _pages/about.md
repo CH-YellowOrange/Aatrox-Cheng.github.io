@@ -15,4 +15,6 @@ I received my bachelor’s degree in Information Engineering from the University
 
 I received my master’s degree in Information Engineering from the Chinese University of Hong Kong (CUHK). During my master studies, my research interests centered on medical imaging and AI chip design.
 
+Unlike most good AI researchers, I am a "garbage maker". If you want to work with me, be prepared to be ripped off. Of course, if you don't mind leaving a stain on your resume, you can choose to communicate with me.
+
 
