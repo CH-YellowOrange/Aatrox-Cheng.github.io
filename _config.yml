@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheng Huang"
+title                    : "Cheng Huang (Aatrox)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Cheng Huang"
+description              : &description "Ph.D. Candidate"
 url                      : https://Aatrox-Cheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "CH-YellowOrange/Aatrox-Cheng.github.io"
